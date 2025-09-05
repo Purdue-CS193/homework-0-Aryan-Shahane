@@ -2,7 +2,7 @@
 
 ### Favorite Things about CS 193:
   - Fun homework that also teaches new technologies
-  - Cool teachers that are actually students
+  - Relatable teachers
   - Welcoming classmates
     
 ## Welcome to GitHub Pages
